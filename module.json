@@ -22,7 +22,7 @@
             "module": "covalon-mentors"
         }
     ],
-    "url": "https://github.com/Kriptini/covalon-mentors",
+    "url": "https://github.com/TanglesTheHobbit/covalon-mentors",
     "manifest": "https://github.com/TanglesTheHobbit/covalon-mentors/releases/latest/download/module.json",
     "download": "https://github.com/TanglesTheHobbit/covalon-mentors/releases/download/2.3/module.zip"
 }
