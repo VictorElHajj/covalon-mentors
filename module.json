@@ -3,33 +3,34 @@
 	"title": "Covalon Mentors",
 	"description": "This actor pack includes Covalon's sixteen mentor characters for the Pathfinder 2e system!",
 	"author": "Kelani Snowdrop",
-	"version": "3.1.2",
+	"version": "3.1.3",
 	"compatibility": {
-		"minimum": 10,
-		"verified": 10,
+		"minimum": 11,
+		"verified": 11,
 		"maximum": 11
 	},
-	"packs": [{
+	"packs": [
+		{
 			"name": "covalon-mentors-t1",
 			"label": "Covalon Mentors T1",
-			"path": "./packs/covalon-mentors-t1.db",
-			"entity": "Actor",
+			"path": "./packs/covalon-mentors-t1",
+			"type": "Actor",
 			"system": "pf2e",
 			"module": "covalon-mentors"
 		},
 		{
 			"name": "covalon-mentors-t2",
 			"label": "Covalon Mentors T2",
-			"path": "./packs/covalon-mentors-t2.db",
-			"entity": "Actor",
+			"path": "./packs/covalon-mentors-t2",
+			"type": "Actor",
 			"system": "pf2e",
 			"module": "covalon-mentors"
 		},
 		{
 			"name": "covalon-mentors-t3",
 			"label": "Covalon Mentors T3",
-			"path": "./packs/covalon-mentors-t3.db",
-			"entity": "Actor",
+			"path": "./packs/covalon-mentors-t3",
+			"type": "Actor",
 			"system": "pf2e",
 			"module": "covalon-mentors"
 		}
