@@ -14,7 +14,7 @@
 			"name": "covalon-mentors-t1",
 			"label": "Covalon Mentors T1",
 			"path": "./packs/covalon-mentors-t1",
-			"entity": "Actor",
+			"type": "Actor",
 			"system": "pf2e",
 			"module": "covalon-mentors"
 		},
@@ -22,7 +22,7 @@
 			"name": "covalon-mentors-t2",
 			"label": "Covalon Mentors T2",
 			"path": "./packs/covalon-mentors-t2",
-			"entity": "Actor",
+			"type": "Actor",
 			"system": "pf2e",
 			"module": "covalon-mentors"
 		},
@@ -30,7 +30,7 @@
 			"name": "covalon-mentors-t3",
 			"label": "Covalon Mentors T3",
 			"path": "./packs/covalon-mentors-t3",
-			"entity": "Actor",
+			"type": "Actor",
 			"system": "pf2e",
 			"module": "covalon-mentors"
 		}
